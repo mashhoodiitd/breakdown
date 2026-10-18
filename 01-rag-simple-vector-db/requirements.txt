@@ -1,0 +1,6 @@
+ipykernel
+langchain
+langchain-core
+langchain-community
+langchain-openai
+faiss-cpu
