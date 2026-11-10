@@ -1,10 +1,6 @@
-> [!NOTE]
-> As of today, **FAISS** officially requires Python >=3.10. Supported versions include:
-> * Python 3.10, 3.11, 3.12, 3.13, 3.14
-> 
-> For this project, **Python 3.10.7** was used to build the virtual environment. For more details, see the [faiss-cpu PyPI page](https://pypi.org/project/faiss-cpu/).
+# Steps
 
-## API Keys Setup
+## 1. API Keys Setup
 
 Please genearate the required API keys below and save it to configuration file (.env) before executing the Notebook.
 1. HuggingFace- It provides free API access to text embedding models.
@@ -19,7 +15,7 @@ You can create a Groq API key to access free open-source models at the following
 * [Groq API Creation Link](https://console.groq.com/keys)
 
 
-## Environment Setup
+## 2. Environment Setup
 
 Follow the steps below for your operating system to configure a clean virtual environment and install the project dependencies.
 
@@ -62,3 +58,8 @@ When you are finished working on the project, you can exit the virtual environme
 ```bash
 deactivate
 ```
+> [!NOTE]
+> As of today, **FAISS** officially requires Python >=3.10. Supported versions include:
+> * Python 3.10, 3.11, 3.12, 3.13, 3.14
+> 
+> For this project, **Python 3.10.7** was used to build the virtual environment. For more details, see the [faiss-cpu PyPI page](https://pypi.org/project/faiss-cpu/).
