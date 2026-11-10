@@ -7,6 +7,8 @@
 ## API Keys Setup
 
 Please genearate the required API keys below and save it to configuration file (.env) before executing the Notebook.
+1. HuggingFace- It provides free API access to text embedding models.
+2. Groq- It provides a fully free API tier to call open-weight Large Language Models (LLMs).
 
 ### Hugging Face API Key
 You can create a Hugging Face API key at the following link:
