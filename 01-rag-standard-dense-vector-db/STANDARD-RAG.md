@@ -4,7 +4,20 @@
 > 
 > For this project, **Python 3.10.7** was used to build the virtual environment. For more details, see the [faiss-cpu PyPI page](https://pypi.org/project/faiss-cpu/).
 
-## 🚀 Environment Setup
+## API Keys Setup
+
+Please genearate the required API keys below and save it to configuration file (.env) before executing the Notebook.
+
+### Hugging Face API Key
+You can create a Hugging Face API key at the following link:
+* [Hugging Face API Creation Link](https://huggingface.co/settings/tokens)
+
+### Groq API Key
+You can create a Groq API key to access free open-source models at the following link:
+* [Groq API Creation Link](https://console.groq.com/keys)
+
+
+## Environment Setup
 
 Follow the steps below for your operating system to configure a clean virtual environment and install the project dependencies.
 
