@@ -63,5 +63,7 @@ deactivate
 > * Python 3.10, 3.11, 3.12, 3.13, 3.14
 > 
 > For this project, **Python 3.10.7** was used to build the virtual environment. For more details, see the [faiss-cpu PyPI page](https://pypi.org/project/faiss-cpu/).
+> 
 > Also, you do not need OPENAI_API_KEY if you are running free api version of the notebook.
+> 
 > You need these api keys if you are running the free api version of the notebook: GROQ_API_KEY, HF_TOKEN
